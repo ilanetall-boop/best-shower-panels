@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Best Shower Panels">
+  <circle cx="24" cy="24" r="23" fill="#2C5F63"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round">
+    <rect x="19" y="11" width="10" height="26" rx="2"/>
+    <line x1="24" y1="13.5" x2="24" y2="15.5" stroke="#C77D46" stroke-width="2.6"/>
+    <line x1="21.5" y1="20" x2="26.5" y2="20"/>
+    <line x1="21.5" y1="24" x2="26.5" y2="24"/>
+    <line x1="21.5" y1="28" x2="26.5" y2="28"/>
+    <path d="M16 16 q-3 2 -3 6" stroke="#C77D46"/>
+  </g>
+</svg>
