@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   logo: "images/shower-panels-logo.svg?v=1",
   newsletterUrl: "",
   affiliateTag: "bestshowerpanel-20",
-  gaId: "TBD",
+  gaId: "G-NFTVRL5J26",
   colors: {
     primary: "#2C5F63",
     primaryLight: "#4A8A8F",
